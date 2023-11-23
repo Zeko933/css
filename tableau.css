@@ -1,0 +1,19 @@
+.lundi{
+    background-color: #E6E6FA;
+}
+.n{
+    background-color: #E7C2F5;
+}
+caption{
+    color: #510080;
+    background-color: #E6E6FA ;
+}
+.opop{
+    color:#483D8B;
+}
+table{
+    width: 60%;
+    margin: auto;
+    border-collapse: collapse;
+    border:  3px solid #510080;
+}

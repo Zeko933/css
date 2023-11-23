@@ -1,0 +1,33 @@
+h1{
+    background-color: #2f4f4f;
+    color:#fff;
+}
+.violet {
+    color:#DA72D6;
+    
+}
+.bleu{
+   color:#87CEFA;
+}
+.orange{
+    color: #FFA500;
+}
+.zone1{
+   color: #DC143C;
+}
+.zone2{
+    color:#428080;
+}
+.lime{
+    color:#29FF94;
+}
+.ajout{
+    background-color:#F5DEB3;
+}
+.zone3{
+    background-color: #00FFFF;
+}
+#red{
+    background-color:#8B0000;
+    color: #fff;
+}
