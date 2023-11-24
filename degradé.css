@@ -1,0 +1,11 @@
+.circle{
+    height: 45em;
+    width: 45em;
+    background-color: aqua;
+    background-image: linear-gradient(to right,#624EA2,#576B9E,#459798,#449B98);
+    border: 1px solid black;
+    border-radius: 50%;
+    padding:20px;
+    margin: auto
+    
+  }

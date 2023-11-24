@@ -1,0 +1,25 @@
+.boite {
+	background-color: aquamarine;
+	border: 7px double black;
+    border-style:double ;
+	margin:20px;
+	background-image: url("file:///C:/Users/EDW2324/Downloads/MicrosoftTeams-image%20(4).png");
+	background-repeat: no-repeat;
+	background-color: #cccc;
+	float: left;
+	height: 190px;
+	width: 300px;
+
+}
+.clear {
+	clear: both;
+}
+.content {
+    background-color: gray;
+
+	margin: auto;
+}
+.boite:hover{
+    margin-top: 40px;
+    
+}
